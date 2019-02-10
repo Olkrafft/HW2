@@ -1,0 +1,1 @@
+This assignment is to demonstarte efficient use of Git Bash for project management.
